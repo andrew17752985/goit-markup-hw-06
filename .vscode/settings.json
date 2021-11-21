@@ -1,3 +1,4 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "prettier.configPath": "vscode://vscode.github-authentication/did-authenticate?windowid=1&code=19c39c5cec4d6d557a22&state=ae75babd-5d79-43f4-b1b4-c60b2db81f26"
 }
