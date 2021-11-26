@@ -932,6 +932,7 @@ img {
   position: relative;
 }
 .modal-input {
+
   width: 100%;
   height: 40px;
   border: 1px solid rgba(33, 33, 33, 0.2);
@@ -964,6 +965,7 @@ img {
   transform: translateY(-50%);
 }
 .modal-text-input {
+  display: block;
   width: 100%;
   height: 120px;
   border-radius: 4px;
@@ -971,7 +973,7 @@ img {
   background: transparent;
   resize: none;
   padding: 10px 16px;
-  margin-bottom: 20px;
+  
 }
 
 /* .modal-text-input:focus {
